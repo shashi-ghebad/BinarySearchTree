@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CreateBinaryTree
+namespace SearchBinaryTree
 {
     class Program
     {
@@ -25,8 +25,8 @@ namespace CreateBinaryTree
             binarySearch.Insert(63);
             binarySearch.Insert(67);
             binarySearch.Display();
-            //bool result = binarySearch.IfExists(63, binarySearch);
-            //Console.WriteLine(result);
+            bool result = binarySearch.IfExists(63, binarySearch);
+            Console.WriteLine(result);
             Console.ReadKey();
         }
 
