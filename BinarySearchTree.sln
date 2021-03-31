@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateNodes", "CreateNodes\CreateNodes.csproj", "{936842A3-5113-4A11-8FA2-488E5CDE97D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936842A3-5113-4A11-8FA2-488E5CDE97D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936842A3-5113-4A11-8FA2-488E5CDE97D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936842A3-5113-4A11-8FA2-488E5CDE97D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936842A3-5113-4A11-8FA2-488E5CDE97D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C31806-83BE-415B-B8DF-EB561DF87189}
+	EndGlobalSection
+EndGlobal
